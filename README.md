@@ -29,9 +29,6 @@ The goal is to sort the water so that each tube contains only one color.
 Use the undo button if you make a mistake.
 Progress through the levels as you successfully sort the water.
 
-Screenshots
-
-
 Contributing
 We welcome contributions to improve the game! If you have any ideas or find any issues, feel free to open an issue or submit a pull request.
 
